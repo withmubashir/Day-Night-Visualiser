@@ -37,8 +37,8 @@ This project is a great example of how to use **real-time data** (current time) 
 day-night-visualiser/
 ├── README.md           # Project documentation
 ├── index.html          # Main HTML file
-├── styles.css          # CSS for styling and animations
 ├── script.js           # JavaScript for real-time updates
+├── styles.css          # CSS for styling and animations
 ```
 
 ## 🙌 Contributions
